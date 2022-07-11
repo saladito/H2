@@ -1,0 +1,26 @@
+Comparación de rendimiento de las librerías geneticalalgorithms y geneticalalgorithms2
+
+######################################
+# Weierstrass - geneticalalgorithms2 #
+######################################
+
+ Objective function:
+ 0.025510100079216613
+
+ Tiempo de ejecución: 70.87009 s
+
+######################################
+# Weierstrass - geneticalalgorithms  #
+######################################
+
+ Objective function:
+ 0.05206707958940804
+ 
+ Tiempo de ejecución: 206.77062 s
+ 
+ +-----------------------------------------------------------------------------------+
+ | Se puede ver como utilizar geneticalalgorithms2 es mucho más eficiente en tiempo, |
+ | además de proporcionar muchas más opcioines a la hora de configurar los GA.       |
+ +-----------------------------------------------------------------------------------+
+
+ 
