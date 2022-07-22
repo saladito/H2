@@ -1,0 +1,1 @@
+population = 100, max_iter = 100, init_razonable,  F_Obj = -5964894.768409999, t = 
